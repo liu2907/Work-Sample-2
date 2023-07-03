@@ -1,0 +1,3183 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How Common is Asthma?",
+    "displayTitle": "How Common is Asthma?",
+    "body": "<p>According to the Centers for Disease Control and Prevention (CDC), 1 in 13 people has asthma.</p><p>Asthma is the most common chronic lung disease in children. It affects approximately 9 million children in the United States. Asthma causes wheezing, breathlessness, chest tightness, and coughing at night or early in the morning.</p><p>For some people, asthma is a minor nuisance. For others, it can be a significant problem that interferes with daily activities and may lead to a life-threatening asthma attack. Poorly controlled and undiagnosed asthma in young children can result in trips to the emergency room, hospital stays, missed workdays for parents, poor quality of life for the children, and even death.</p>",
+    "_id": "5da0ac329d1c30038ee52cbb",
+    "instruction": "",
+    "_parentId": "5da0ac329d1c30038ee52cba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Managing the medical care of a child with asthma is a team effort. To be most effective, team members should have a basic understanding of how asthma affects the body and best practices for the management of symptoms.</p><p>This course, while specifically designed for Child Welfare (CW) Specialists, will help define the expectations of each member on a child’s caregiving team, including foster parents, medical professionals, and the child, when appropriate. In this course, we will learn how to manage asthma together.</p>",
+    "_id": "5da0eea49d1c30038ee52cd3",
+    "instruction": "",
+    "_parentId": "5da0eea49d1c30038ee52ccf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5da0eea49d1c30038ee52cd4",
+    "instruction": "",
+    "_parentId": "5da0eea49d1c30038ee52ccf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "a group of social workers",
+      "large": "course/en/assets/08974f459b21e78488f3ee31f45bd16738f451ad.jpg",
+      "small": "course/en/assets/08974f459b21e78488f3ee31f45bd16738f451ad.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "DHS Responsibilities",
+    "displayTitle": "DHS Responsibilities",
+    "body": "<p>The high level of adult supervision needed to monitor a child’s asthma attack can be challenging if the child is in foster care. The transition of primary care for the child can create disruptions to important routines. If the adults responsible for the child are undertrained in managing the condition or do not give the condition the level of attention it requires, the child’s health may seriously suffer.</p><p>DHS is responsible for ensuring that children in care have their medical needs met. For children and youth with asthma, this requires taking a team approach in managing their care.</p><p>In this course, you will learn how to partner with parents, foster parents, and health professionals to support a child with asthma. You will also learn your responsibilities as a CW Specialist in ensuring children with asthma assigned to you receive proper care.</p>",
+    "_id": "5da0eef39d1c30038ee52ce7",
+    "instruction": "",
+    "_parentId": "5da0eef39d1c30038ee52ce0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "DHS Responsibilities",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5da0f9059d1c30038ee52ced",
+    "instruction": "",
+    "_parentId": "5da0eef39d1c30038ee52ce0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "circle, worker, responsibility icon",
+      "large": "course/en/assets/8de1f6cf2d88679be93e9ebefeceef1147e1bb99.jpg",
+      "small": "course/en/assets/8de1f6cf2d88679be93e9ebefeceef1147e1bb99.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5da4cce19d1c30038ee52d15",
+    "instruction": "",
+    "_parentId": "5da4ccbf9d1c30038ee52d14",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "button": "Return to Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5da4cd039d1c30038ee52d16",
+    "instruction": "",
+    "_parentId": "5da4ccbf9d1c30038ee52d14",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "button": "Next Page",
+    "pageID": "5d9e2c649d1c30038ee52c4b"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>In this module, you will learn:</p><ol><li>The nature of asthma and an asthma attack</li><li>Reactive airway disease</li><li>Asthma symptoms and&nbsp;triggers</li><li>Types of asthma</li><li>Asthma treatment</li></ol>",
+    "_id": "5da4dc649d1c30038ee52d20",
+    "instruction": "",
+    "_parentId": "5da4dc519d1c30038ee52d1f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "Boy using a asthma inhalator",
+      "large": "course/en/assets/3e2ab34c0c41d3a04f38e150c6c91e815232f50c.jpg",
+      "small": "course/en/assets/3e2ab34c0c41d3a04f38e150c6c91e815232f50c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Symptoms",
+    "displayTitle": "Symptoms",
+    "body": "<p>Most children with asthma have symptoms before they turn five. In infants, toddlers, and preschoolers, the bronchial tubes &ndash; the passageways that allow air to enter and leave the lungs &ndash;are small and narrow. Head colds, chest colds, and other&nbsp;illnesses can inﬂame these airways, making them even smaller. In very young children, it may be hard for parents, and even doctors, to recognize when symptoms are caused by asthma.</p><p>The signs of childhood asthma can range from a cough that lingers for days or weeks to sudden and scary breathing emergencies. Common symptoms people should watch for include:</p><ul><li>Shortness of breath</li><li>Whistling or wheezing sound when exhaling</li><li>Chest tightness or pain</li><li>Coughing</li><li>Waking at night with any of the above symptoms</li></ul><p>Symptoms are often worsened by a respiratory virus such as a cold or the flu.</p>",
+    "_id": "5da4ef2c9d1c30038ee52d47",
+    "instruction": "",
+    "_parentId": "5da4ef2a9d1c30038ee52d41",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of Asthma",
+    "displayTitle": "Types of Asthma",
+    "body": "<p>There are many different types of asthma, brought on by many different triggers.</p>",
+    "_id": "5da4ef2d9d1c30038ee52d48",
+    "instruction": "Click each tab to learn more. All tabs must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5da4ef2a9d1c30038ee52d42",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "showIcons": false,
+    "_items": [
+      {
+        "title": "Intrinsic",
+        "body": "<p>No history of allergies, triggered by upper respiratory infection and/or psychological stress</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      },
+      {
+        "title": "Extrinsic",
+        "body": "<p>Extrinsic asthma is often allergy induced.</p><p>Not everyone who has allergies has asthma, and not everyone with asthma has allergies. But allergens such as pollen, dust, and pet dander can trigger asthma symptoms and asthma attacks in certain people.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Exercise Induced",
+        "body": "<p>Symptoms develop when airways narrow as a result of physical activity.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Drug Induced",
+        "body": "<p>Includes medications, food, and beverages</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      },
+      {
+        "title": "Status Asthmaticus",
+        "body": "<p>Airway restriction that goes on for a long time and is not helped by taking emergency medication can lead to death without emergency care.</p><p>To be specific, if the patient’s airway constriction continues even though they have used their emergency inhaler, mucus begins to build up in the airways causing further inflammation and edema (water buildup and swelling) in the lungs. This leads to respiratory exhaustion and eventually death from respiratory and cardiac failure.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "icon": "",
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Asthma Triggers",
+    "displayTitle": "Asthma Triggers",
+    "body": "<p>Some things can make asthma worse and can initiate the onset of an asthma attack. Not all children&nbsp;with asthma are affected by the same factors, and their sensitivities can change over time.</p><p>&nbsp;</p>",
+    "_id": "5da4ef2d9d1c30038ee52d49",
+    "instruction": "Click on each card to learn different asthma triggers. Both sides must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5da4ef2a9d1c30038ee52d43",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic-accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Treatment",
+    "displayTitle": "Treatment",
+    "body": "<p>Each child’s treatment is individualized and should be discussed with their primary care physician.</p>",
+    "_id": "5da4ef2d9d1c30038ee52d4a",
+    "instruction": "Click each tab to learn more. All tabs must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5da4ef2a9d1c30038ee52d44",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "defaultAlt": "",
+    "defaultSrc": "",
+    "_items": [
+      {
+        "title": "Treatment Goals",
+        "body": "<p>The treatment goals for young children with asthma are:</p><ul><li>Treatment of inflammation in the airways, usually with daily medication, to prevent asthma attacks</li><li>Use of short-acting drugs to treat asthma attacks</li><li>Avoidance or minimization of the effects of asthma triggers</li><li>Maintenance of normal activity levels</li></ul>",
+        "_graphic": {
+          "alt": "a treatment road sign",
+          "src": "course/en/assets/37f3cb82167121ec6c13e1c7bc4738d7f91b8867.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Medications",
+        "body": "<p>Asthma is treated and controlled primarily with two types of medications:</p><ul><li>Inhaled corticosteroids are used to control lung swelling over the long term. Long acting inhalers must be used daily to <strong>PREVENT</strong> an asthma crisis. They are maintenance medications.</li><li>Quick-relief beta2-agonists (like albuterol) are used as “rescue” inhalers when symptoms occur. Short acting inhalers are only used when an acute asthma attack is occurring. They are typically used in <strong>EMERGENCY situations</strong>.</li><li>In addition to inhalers, other medications may be prescribed based on the severity level of a child’s asthmatic condition.</li></ul><p><strong>Note: Long acting inhalers should NEVER be confused with short acting inhalers as they can potentiate the crisis and lead to faster death! </strong></p>",
+        "_graphic": {
+          "alt": "Albuterol asthma inhaler with medication in blister packs",
+          "src": "course/en/assets/5741ad0b48962a361437c1077c79c080ead133fd.jpg"
+        },
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "symptoms",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5da629f39d1c30038ee52d61",
+    "instruction": "",
+    "_parentId": "5da4ef2a9d1c30038ee52d41",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "little girl wearing oxygen mask",
+      "large": "course/en/assets/c3801693d0e6aadbcb6d529e424f87ad257d9355.jpg",
+      "small": "course/en/assets/c3801693d0e6aadbcb6d529e424f87ad257d9355.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Viruses & Infections",
+    "displayTitle": "Viruses & Infections",
+    "body": "",
+    "_id": "5dbb3e4c9d1c30038ee5334c",
+    "instruction": "",
+    "_parentId": "5dbb3e0c9d1c30038ee5334b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Viruses & Infections",
+      "src": "course/en/assets/7b9b0c4b3992639106193ced89be7d42f168d2b8.jpg",
+      "alt": "germs",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Viruses & Infections",
+      "src": "",
+      "alt": "",
+      "body": "<p>The most common cause of an asthma attack is a cold, flu, respiratory syncytial virus, or other upper airway infection.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Changes in Weather",
+    "displayTitle": "Changes in Weather",
+    "body": "",
+    "_id": "5dbb3e4f9d1c30038ee5334d",
+    "instruction": "",
+    "_parentId": "5dbb3e0c9d1c30038ee5334b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Changes in Weather",
+      "src": "course/en/assets/8d469574e434cdbce99706aa2e6031d53b6428da.jpg",
+      "alt": "a boy with vapor coming from his mouth",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Changes in Weather",
+      "src": "",
+      "alt": "",
+      "body": "<p>Changes in weather and temperature, especially cold air, can flare up children’s asthma.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Running or Playing Hard",
+    "displayTitle": "Running or Playing Hard",
+    "body": "",
+    "_id": "5dbc443a9d1c30038ee53354",
+    "instruction": "",
+    "_parentId": "5dbc443a9d1c30038ee53353",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Running or Playing Hard",
+      "src": "course/en/assets/d4342418584dfe97efe993036b006c274971603c.jpg",
+      "alt": "Young black boys playing in their new house",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Running or Playing Hard",
+      "src": "",
+      "alt": "",
+      "body": "<p>Some children may&nbsp;experience asthma symptoms during or after strenuous exercise, like running or playing hard.&nbsp;</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Crying or Laughing",
+    "displayTitle": "Crying or Laughing",
+    "body": "",
+    "_id": "5dbc443a9d1c30038ee53356",
+    "instruction": "",
+    "_parentId": "5dbc443a9d1c30038ee53353",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Crying or Laughing",
+      "src": "course/en/assets/416b60dc69678d7b2e4e641d302efcb4dcad84ec.jpg",
+      "alt": "Asian little boy cry and feel sad",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Crying or Laughing",
+      "src": "",
+      "alt": "",
+      "body": "<p>Strong physical expressions of feelings, such as crying, laughing hard, or yelling, can cause some children's asthma to flare up.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Pets",
+    "displayTitle": "Pets",
+    "body": "",
+    "_id": "5dbc5f7e9d1c30038ee53366",
+    "instruction": "",
+    "_parentId": "5dbc5f7e9d1c30038ee53365",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Pets",
+      "src": "course/en/assets/655c7b34ac7f149e582c053761ad5cfe76189aba.jpg",
+      "alt": "Little boy with hamster",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Pets",
+      "src": "",
+      "alt": "",
+      "body": "<p>Common pets, such as dogs or cats, or any other animals, such as rabbits, hamsters, gerbils or parakeets may cause some children to have an asthma attack. This depends on the child’s allergic response to the animal.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Cockroaches",
+    "displayTitle": "Cockroaches",
+    "body": "",
+    "_id": "5dbc5f7e9d1c30038ee53368",
+    "instruction": "",
+    "_parentId": "5dbc5f7e9d1c30038ee53365",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Cockroaches",
+      "src": "course/en/assets/01e688ab9781bf7fd75971a79f587477726c7615.jpg",
+      "alt": "Little boy close to cockroach on the house floor",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Cockroaches",
+      "src": "",
+      "alt": "",
+      "body": "<p>Droppings, saliva, and the body parts of cockroaches and other pests can cause asthma attacks for some children.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Review",
+    "displayTitle": "Review",
+    "body": "<p>Before we move onto the next module, let&#39;s review some of what you learned in this module.</p>",
+    "_id": "5dc1f9f79d1c30038ee5347e",
+    "instruction": "",
+    "_parentId": "5dc1f0969d1c30038ee53430",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scenario",
+    "displayTitle": "",
+    "body": "<p>You have been assigned a referral concerning Jack, who has asthma. Read the report to learn the details of the referral.</p><p>Jack had a severe asthma attack at school, and the school called an ambulance. Doctors gave him three emergency breathing treatments at the hospital before they were able to stabilize his respiratory status. This is his second time visiting the emergency room in the past six months due to asthma attacks. Prior to the school calling the ambulance, the school attempted to contact Lilly, Jack’s mother, when they noticed Jack was having trouble breathing. Lilly refused to come to the school and bring an inhaler, as she had no additional inhalers for Jack.&nbsp; As such, the hospital has referred the case to DHS because they suspect Failure to Obtain Medical Attention.</p><p>Jack is being raised primarily by his mother, Lilly, who is reported to have severe asthma as well. Jack is a regular patient of Dr. Shumway, a pulmonologist.</p>",
+    "_id": "5dcf1a549d1c30038ee53782",
+    "instruction": "",
+    "_parentId": "5dcf15989d1c30038ee53781",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Investigation Findings",
+    "displayTitle": "Investigation Findings",
+    "body": "<p>From these interviews, we have learned several important things:</p>",
+    "_id": "5dd41d739d1c30038ee53957",
+    "instruction": "Click each tab to learn more. All tabs must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5dd311519d1c30038ee53952",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Problem 1",
+        "body": "<p>Jack missed his checkup with Dr. Shumway because Lilly didn’t have enough money for the medical expense. As a result, Jack has been without his asthma medications for two weeks.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 2",
+        "body": "<p>Due to the mold issue, Jack’s asthma gets worse at home.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 3",
+        "body": "<p>Neither Lilly nor the school was aware that Jack’s inhaler was missing from his backpack.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 4",
+        "body": "<p>Jack and Lilly share the same inhaler at home to control their asthma.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 5",
+        "body": "<p>Neither Lilly nor the school have a copy of the asthma action plan.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 6",
+        "body": "<p>The school is unaware of what Jack’s asthma triggers are.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Problem 7",
+        "body": "<p>Due to the maturity level of Jack’s age, he can’t be relied upon to manage his asthmatic condition independently.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dd4256a9d1c30038ee5395a",
+    "instruction": "",
+    "_parentId": "5dd4254c9d1c30038ee53959",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "button": "Return to Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dd425729d1c30038ee5395b",
+    "instruction": "",
+    "_parentId": "5dd4254c9d1c30038ee53959",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "button": "Next Page",
+    "pageID": "5df2774d9b7ddf037c66fc7b"
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dd426409d1c30038ee5395f",
+    "instruction": "",
+    "_parentId": "5dd426389d1c30038ee5395d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "button": "Return to Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5dd426469d1c30038ee53961",
+    "instruction": "",
+    "_parentId": "5dd426389d1c30038ee5395d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "button": "Next Page",
+    "pageID": "5dced3389d1c30038ee5377b",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Frequently Asked Questions",
+    "displayTitle": "Frequently Asked Questions",
+    "body": "",
+    "_id": "5dd44f239d1c30038ee53964",
+    "instruction": "Click each tab to learn more. All tabs must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5dd44bd29d1c30038ee53963",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Is there a cure for asthma?",
+        "body": "<p>Asthma cannot be cured, but it can be controlled. Most young people with asthma should be able to live healthy, active lives with minimal symptoms.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What should most people with well-controlled asthma be able to do?",
+        "body": "<p>People with well-controlled asthma should be able to do everything a person without asthma can do. They should be able to:</p><ul><li>Be active without having asthma symptoms; this includes participating in physical activity and sports</li><li>Sleep through the night without having asthma symptoms</li><li>Prevent asthma attacks</li><li>Have the best possible lung function</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How do we know if a child’s asthma is NOT under good control?",
+        "body": "<p>Asthma is NOT&nbsp;under good control:</p><ul><li>When a child has asthma symptoms or uses a quick-relief inhaler for asthma symptom control more than two days per week</li><li>If it interferes with any normal activities</li><li>If children&nbsp;have asthma symptoms multiple times on any day</li><li>If children&nbsp;have nighttime awakenings due to asthma more than once a month</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>When a child is taken into care, DHS is ultimately responsible for ensuring the child is safe and his or her needs are being met.&nbsp; As such, it is especially important that we ensure that foster parents&nbsp;are providing the level of care the child needs.</p><p>In your work&nbsp;as a CW Specialist, you may be responsible for arranging an appropriate foster placement for a child with asthma or assessing a safety plan monitor or a foster parent’s care of a child. In this module, you will learn:</p><ul><li>What to consider when choosing a foster placement or safety plan monitor for a child with asthma</li><li>What responsibilities fall to the Child Welfare Specialist and the Nurse</li></ul>",
+    "_id": "5df278d99b7ddf037c66fc7e",
+    "instruction": "",
+    "_parentId": "5df2774d9b7ddf037c66fc7d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Asthma Management and Supervision",
+    "displayTitle": "Asthma Management and Supervision",
+    "body": "<p>In light of the serious consequences of poor asthma management, it is vitally important that children’s and teenagers’ asthmatic conditions are properly monitored.</p><p>When caring for a child with asthma, caregivers and CW Specialists must remember that children are children, not adults. Management of asthma involves careful daily monitoring tasks that children must have adults help them manage.</p><p>Children and teenagers may need reminders or prodding to stay away from asthma triggers. Just as they sometimes forget or resist doing chores or homework, they may forget or resist staying away from the potential asthma triggers or taking medication correctly. Their asthmatic care requires some level of <strong>adult oversight </strong>every day. This is to ensure proper dosing, as well as to ensure a child or teenager is not intentionally being non-compliant for any reason.</p>",
+    "_id": "5df279fa9b7ddf037c66fc81",
+    "instruction": "",
+    "_parentId": "5df279df9b7ddf037c66fc80",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Asthma Education for Caregivers",
+    "displayTitle": "Asthma Education for Caregivers",
+    "body": "<p>There is no specific asthma education course for caregivers (parent, foster parents, safety plan monitors, shelter staff, or anyone providing care to a child) to complete; however, Child Welfare Nurses are available at all times to answer questions that caregivers have about asthma.</p><p>While there is no required training specific to caring for a child with asthma, CW Specialists should continually assess a caregiver’s knowledge, ability, and confidence in providing care for a child with asthma, or any other serious medical condition, as well as their intention to learn to care for the child.</p>",
+    "_id": "5df27e099b7ddf037c66fc84",
+    "instruction": "",
+    "_parentId": "5df27dec9b7ddf037c66fc83",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Asthma Management and Supervision",
+    "displayTitle": "",
+    "body": "<p>Any caregiver (parent, foster parent, safety plan monitor, or shelter staff) <strong>must understand </strong>the level of supervision necessary to manage a child or teen with asthma, and <strong>be responsible for providing</strong> this level of care.</p>",
+    "_id": "5df2806b9b7ddf037c66fc85",
+    "instruction": "",
+    "_parentId": "5df279df9b7ddf037c66fc80",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "mom is taking care of a sick child with inhaler",
+      "large": "course/en/assets/9c124f656f320bfaa62ad7e1270a70bff9218236.jpg",
+      "small": "course/en/assets/9c124f656f320bfaa62ad7e1270a70bff9218236.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic-accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Child Welfare Specialist Responsibilities",
+    "displayTitle": "Child Welfare Specialist Responsibilities",
+    "body": "",
+    "_id": "5df29e8e9b7ddf037c66fc8a",
+    "instruction": "Click each tab to learn more. All tabs must be viewed to complete the interaction and achieve module completion.",
+    "_parentId": "5df29b909b7ddf037c66fc89",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "defaultAlt": "",
+    "defaultSrc": "",
+    "_items": [
+      {
+        "title": "Professional Consultation",
+        "body": "<p>Determining if a foster parent&nbsp;is providing adequate care is vitally important. As a CW Specialist, the first task you should complete is consulting with the child’s medical team (including Child Welfare Nurses), where you will get indicators of whether the child’s condition is being adequately controlled in the foster parent’s care.</p>",
+        "_graphic": {
+          "alt": "male social worker consult with doctor in office",
+          "src": "course/en/assets/89afc78894d45c8e3cb01715785e5a840125f035.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Home Visit",
+        "body": "<p>When performing home visits, look for indicators in the home that the condition is being properly managed, including:</p><ul><li>Assessing the home environment for asthma triggers and sharing information or resources to eliminate them</li><li>Asking to see all medications (including inhalers) the child requires and ensuring the medications are not expired and are being stored in a proper manner (Note: when we initially pick up children or transfer children, all medications must be identified and moved with them, which includes inhalers and nebulizers.)</li><li>Asking the same questions you would ask a parent, for example:</li></ul><ol style=\"margin-left:40px\"><li>Who is the child’s doctor?</li><li>Does the child see a specialist (pulmonologist) for his asthma?</li><li>When was the child’s last appointment? When is his next appointment?</li><li>What are the child’s triggers?</li><li>What is the child’s emergency plan if an asthma attack occurs?</li><li>What will you do if an attack does not improve with medication administration?</li><li>Do you have all necessary supplies, such as nebulizer and spacer, in your home? Does the nebulizer work? Can you show me where it is and how to use it? Take photos to document the location and condition.</li><li>Look at all medications/inhalers. Take clear photos of the asthma medication labels with readable fill and expiration dates, a picture of prescribed drugs, a picture of the nebulizer (if present), and a picture of the counter on the back of the inhaler.</li><li>Plug in the nebulizer (if present) to check if it is still working.</li><li>What is your plan of action should the child require emergency medical assistance?</li></ol>",
+        "_graphic": {
+          "alt": "social worker greeting with a young mother at her house front door",
+          "src": "course/en/assets/b92c0d033e4395b399e396756edb9e522a53271e.jpg"
+        },
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Child Welfare Nurse Responsibilities",
+    "displayTitle": "Child Welfare Nurse Responsibilities",
+    "body": "<p>Child Welfare Nurses should be consulted on all cases where a child has been diagnosed, or has a perceived diagnosis of asthma, to ensure proper treatment is being followed, medications are being used correctly, and knowledge of the child's needs can be fully assessed to ensure compliance or identify education needs.</p><p>Nurses are also able to make home visits to biological homes, foster homes, or any home where a child is located, regardless of custody status.</p><p>If you have any questions and need to contact the&nbsp;Child Welfare Nurses, reach them by email at <a href=\"mailto:*CWS.Nurses\">*CWS.Nurses</a>.</p>",
+    "_id": "5df2ae109b7ddf037c66fc90",
+    "instruction": "",
+    "_parentId": "5df2ade69b7ddf037c66fc8f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem 1",
+    "displayTitle": "Problem 1",
+    "body": "",
+    "_id": "5e013cdc9b7ddf037c6700a8",
+    "instruction": "",
+    "_parentId": "5e013c949b7ddf037c6700a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Problem 1",
+      "src": "",
+      "alt": "",
+      "body": "<p>Jack missed his checkup with Dr. Shumway because Lilly didn’t have enough money for the medical expense. As a result, Jack has been without his asthma medications for two weeks.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Solution",
+      "src": "",
+      "alt": "",
+      "body": "<ul><li>According to Dr. Shumway, Jack needs to take medication daily to control his asthma. Lilly will ensure Jack’s insurance information is up to date.</li><li>Lilly will schedule an appointment with Dr. Shumway for Jack’s medication refill.</li><li>Lilly will accompany the Safety Plan monitor to the doctor appointment for Jack.</li><li>Dr. Shumway will notify DHS immediately if Jack is a no-show for any appointments.</li></ul>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem 3, 4, 5 & 6",
+    "displayTitle": "Problem 3, 4, 5 & 6",
+    "body": "",
+    "_id": "5e0142739b7ddf037c6700ab",
+    "instruction": "",
+    "_parentId": "5e01425b9b7ddf037c6700aa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "animation": "fade",
+    "front": {
+      "title": "Problem 3, 4, 5 & 6",
+      "src": "",
+      "alt": "",
+      "body": "<p><strong>Problem 3</strong>: Neither Lilly nor the school&nbsp;was aware that Jack's inhaler was missing from his backpack.</p><p><strong>Problem 4</strong>: Jack and Lilly share the same inhaler at home to control their asthma.</p><p><strong>Problem 5</strong>: Neither Lilly nor the school have a copy of the asthma action plan.</p><p><strong>Problem 6</strong>: The school is unaware of what Jack's asthma triggers are.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Solution",
+      "src": "",
+      "alt": "",
+      "body": "<p>A meeting will be held with Lilly, school personnel (to include teacher, nurse, principal) and DHS (specialist and DHS nurse) to coordinate an action plan regarding where Jack’s inhaler will be kept, his access to it, activities he may be limited in at school, and what to do in case of an asthma attack at school. All parties involved will be provided with a copy of the action plan.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e0fceff546eb20387e91251",
+    "instruction": "",
+    "_parentId": "5dcf15989d1c30038ee53781",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "a boy in thinking pose",
+      "large": "course/en/assets/78a759f5937984a1bd1931d325953d0a8f3a2f8e.jpg",
+      "small": "course/en/assets/78a759f5937984a1bd1931d325953d0a8f3a2f8e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>In your work as a CW Specialist, you may be tasked with assessing whether a parent, caregiver, or foster parent is providing adequate care for a child with asthma. This requires the input of several people, and involves visiting the home and observing the child’s medication.</p><p>In this module, you will investigate the case of Jack, an 8-year-old boy with asthma. Through Jack, you will learn how to partner with other members of the child’s team to ensure he receives appropriate care, and apply what you’ve learned about asthma to determine if a child’s asthma is being properly managed.</p><p>Please note, while the case you investigate in this module focuses on parents, the information applies to all caregivers, including foster parents.</p>",
+    "_id": "5e0fd3e7546eb20387e9125f",
+    "instruction": "",
+    "_parentId": "5dced3389d1c30038ee5377d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Child Welfare Nurse Responsibilities",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e14b348546eb20387e915db",
+    "instruction": "",
+    "_parentId": "5df2ade69b7ddf037c66fc8f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "Baby boy held by his mother examined by pediatrician",
+      "large": "course/en/assets/d7e32f0d61ddb4584d3af70dbc7787508964eb3f.jpg",
+      "small": "course/en/assets/d7e32f0d61ddb4584d3af70dbc7787508964eb3f.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "scene",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 3",
+    "displayTitle": "Question 3",
+    "body": "<p>In Kylie’s home, what could be potential triggers of her asthma?</p>",
+    "_id": "5e164e3c546eb20387e91602",
+    "instruction": "Select all items that could make Kylie’s asthma worse, then click Submit see how you did.",
+    "_parentId": "5e164e3c546eb20387e915f8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_width": 780,
+    "_height": 508,
+    "_graphic": {
+      "alt": "<p>The interior of Kylie's living room. The room appears in coziness, with a&nbsp;wood-burning&nbsp;fireplace, a candle, pets (a dog and a&nbsp;cat), noticeable mold, cockroaches and their droppings, and other decorative items (sofa, chair, books, curtain etc…).</p>",
+      "src": "course/en/assets/2007c18f1ef1444f8594ce7f03af72305275b697.jpg"
+    },
+    "mobileFallback": "<p>In this picture, there are five items that could potentially trigger Kylie’s asthma:</p><ul><li>Wood-burning fireplace</li><li>Mold</li><li>Cockroaches</li><li>Scented candles</li><li>Pets</li></ul>",
+    "submitLabel": "Submit",
+    "showFeedbackLabel": "Show Feedback",
+    "accessibleStem": "Could this item flares up Wylie's asthma?",
+    "_items": [
+      {
+        "name": "Wood-burning fireplace",
+        "_width": 134,
+        "_height": 93,
+        "_top": 231,
+        "_left": 76,
+        "_z": 0,
+        "_isCorrect": true,
+        "_feedback": "The smoke produced by a poorly ventilated wood-burning fireplace can cause asthma attacks in children.",
+        "_graphic": {
+          "alt": "A wood-burning fire inside a fireplace",
+          "default": "",
+          "selected": "course/en/assets/3927edbd6f4eee160806eab99769d3b5f510557c.png"
+        }
+      },
+      {
+        "name": "Mold",
+        "_width": 117,
+        "_height": 150,
+        "_top": 232,
+        "_left": 291,
+        "_z": 0,
+        "_isCorrect": true,
+        "_feedback": "Mold grows where moisture is present. When mold is inhaled by children who are allergic, it can trigger asthma.",
+        "_graphic": {
+          "alt": "mold on window",
+          "default": "",
+          "selected": "course/en/assets/d1e082ac3735ef175cf5f3d0c3354ccb894be305.png"
+        }
+      },
+      {
+        "name": "Cockroaches",
+        "_width": 87,
+        "_height": 143,
+        "_top": 330,
+        "_left": 658,
+        "_z": 1,
+        "_isCorrect": true,
+        "_feedback": "Droppings, saliva, and the body parts of cockroaches and other pests can cause asthma attacks for some children.",
+        "_graphic": {
+          "alt": "Roaches and their droppings",
+          "default": "",
+          "selected": "course/en/assets/f71cf952a4a0ba4b5e641ecafc2c17b2a7148be4.png"
+        }
+      },
+      {
+        "name": "Scented candles",
+        "_width": 74,
+        "_height": 122,
+        "_top": 58,
+        "_left": 205,
+        "_z": 0,
+        "_isCorrect": true,
+        "_feedback": "Scented candles give off odors that often aggravate asthma symptoms.  Be cautious of using candles especially when asthma symptoms are present.",
+        "_graphic": {
+          "alt": "burning scented candles",
+          "default": "",
+          "selected": "course/en/assets/d0a815a9ff2da8bb42689055b472776faf82dcc9.png"
+        }
+      },
+      {
+        "name": "Pets",
+        "_width": 204,
+        "_height": 143,
+        "_top": 357,
+        "_left": 91,
+        "_z": 0,
+        "_isCorrect": true,
+        "_feedback": "Animal dander from feathered or furry pets may worsen children's asthma.",
+        "_graphic": {
+          "alt": "a dog and a cat",
+          "default": "",
+          "selected": "course/en/assets/2d42aa0cca566036abd5bdf56178623acbfef64c.png"
+        }
+      }
+    ],
+    "feedbackCorrectTitle": "Correct!",
+    "feedbackCorrect": "<p>You correctly identified all five items that could potentially trigger Kylie's asthma. They are:</p><ul><li><strong>Wood-burning fireplace</strong>: The smoke produced by a poorly ventilated wood-burning fireplace can cause asthma attacks in children.</li><li><strong>Mold</strong>:&nbsp;Mold grows where moisture is present. When mold is inhaled by children who are allergic, it can trigger asthma.</li><li><strong>Cockroaches</strong>: Droppings, saliva, and the body parts of cockroaches and other pests can cause asthma attacks for some children.</li><li><strong>Scented candle</strong>:&nbsp;Scented candles give off odors that often aggravate asthma symptoms.&nbsp; Be cautious of using candles especially when asthma symptoms are present.</li><li><strong>Pets</strong>:&nbsp;Animal dander from feathered or furry pets may worsen children's asthma.</li></ul>",
+    "feedbackIncorrectTitle": "Incorrect!",
+    "feedbackIncorrectOpening": "<p>You may want to reconsider your answer.</p>",
+    "feedbackIncorrectClosing": "<p>As a result, the following five items should be identified&nbsp;as the correct answers:</p><ul><li>Wood-burning fireplace</li><li>Mold</li><li>Cockroaches</li><li>Scented candles</li><li>Pets</li></ul>"
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "Question 2",
+    "body": "<p>To prevent Kylie’s asthma flare-ups at home, what suggestions would you make to Kylie’s parents?</p>",
+    "_id": "5e164e40546eb20387e9160e",
+    "instruction": "Select the correct answer, then click Submit.",
+    "_parentId": "5e164e3f546eb20387e91607",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Try to keep their home free from mold and dust.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spend time looking for potential triggers which may flare up Kylie’s asthma.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct!&nbsp;Many different asthma triggers can cause an asthma attack to happen. Mold and dust at home are one of them, but Kylie's asthma could be flaring up because of other asthma triggers. Therefore, it is wise to figure out what exactly is Kylie's asthma trigger and then take action to remove or control it.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.</p><p>Many different asthma triggers can cause an asthma attack to happen. Mold and dust at home are one of them, but Kylie's asthma could be flaring up because of other asthma triggers. Therefore, it is wise to figure out what exactly is Kylie's asthma trigger and then take action to remove or control it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "Question 1",
+    "body": "<p>This is Kylie. She is six years old and has asthma. While being interviewed regarding a child welfare investigation, she told a CW Specialist, “My asthma gets worse when I am at home.” What could this mean?</p>",
+    "_id": "5e164e43546eb20387e9161b",
+    "instruction": "Select the correct answer, then click Submit.",
+    "_parentId": "5e164e43546eb20387e91617",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Most likely Kylie is being exposed to certain “triggers” at home.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Kylie's asthma is not under good control.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Kylie doesn't want to stay at home.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct!&nbsp;When Kylie said her asthma gets worse at home, it probably&nbsp;means something at home that Kylie&nbsp;is coming in contact with has a high potential to flare up her asthma.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.</p><p>When Kylie said her asthma gets worse at home, it probably&nbsp;means something at home that Kylie&nbsp;is coming in contact with has a high potential to flare up her asthma.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e164e43546eb20387e9161c",
+    "instruction": "",
+    "_parentId": "5e164e43546eb20387e91617",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_graphic": {
+      "alt": "Smiling student girl wearing school backpack and holding exercise book",
+      "large": "course/en/assets/5573ea5cb9e57aad72c4f40579039c4d2df88666.jpg",
+      "small": "course/en/assets/5573ea5cb9e57aad72c4f40579039c4d2df88666.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p>Congratulations, you are almost finished! You have completed the learning part of this Placement Stability online course.</p><p>You can find the following policy documents presented in this course in the <strong>Resources</strong> area on the main course menu:</p><ul><li><a href=\"http://www.okdhs.org/library/policy/Pages/oac340075030200000.aspx#15\" target=\"_blank\">Policy: 340:75-3-200 (ITS # 14&amp;15)</a></li></ul><p>Close the current webpage (not the entire browser window), and you will be automatically redirected to the main course menu in the DHS Learning Management System. <strong>There you will need to complete a short quiz and the course Feedback survey to receive&nbsp;a Certificate of Completion.</strong></p>",
+    "_id": "5e178f2a546eb20387e9163c",
+    "instruction": "",
+    "_parentId": "5e178f17546eb20387e9163b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e57f2d67a4b1008867e4e91",
+    "_parentId": "5e57f2a47a4b1008867e4e90",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reactive Airway Disease",
+    "displayTitle": "Reactive Airway Disease",
+    "body": "<p>Reactive Airway Disease (RAD) is used to describe a history of airway troubles, such as coughing, wheezing, or shortness of breath caused by allergens.</p><p>In pediatrics, doctors use this term to describe a set of symptoms that may indicate a child has asthma. Further tests help the doctor diagnose or rule out asthma. But it can be difficult to diagnose asthma in early childhood. Below the age of 3, tests for asthma may not give an accurate result. Doctors may use the term Reactive Airway Disease until they have reached an accurate diagnosis.</p><p>Since RAD shares many similarities with asthma and could be confirmed as asthma later on, it is highly suggested to consult with Child Welfare Nurses when you have children diagnosed with RAD on your caseload.</p>",
+    "_id": "5e6bbdabbb1a0d03740bf2af",
+    "_parentId": "5e6bbd61bb1a0d03740bf2ae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question",
+    "displayTitle": "Question",
+    "body": "<p>The disappearance of whistling or wheezing could indicate a child has gotten over an asthma attack.</p>",
+    "_id": "5e6bc053bb1a0d03740bf2b2",
+    "_parentId": "5e6bbfddbb1a0d03740bf2b0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select the correct answer, then click Submit.",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct! Children who have been struggling to breathe for any amount of time can go into a phase where they actually stop wheezing and coughing because they are physically exhausted. Once medication has been administered, there may be no more active wheezing and coughing; however, the child may still be having difficulty breathing.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider this answer.</p><p>Children who have been struggling to breathe for any amount of time can go into a phase where they actually stop wheezing and coughing because they are physically exhausted. Once medication has been administered, there may be no more active wheezing and coughing; however, the child may still be having difficulty breathing.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Smoke Exposure",
+    "displayTitle": "Smoke Exposure",
+    "body": "",
+    "_id": "5e6bd706bb1a0d03740bf2b6",
+    "_parentId": "5e6bd706bb1a0d03740bf2b5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "fade",
+    "front": {
+      "title": "Smoke Exposure",
+      "src": "course/en/assets/4ce6647311d2bfd223d2e3632b8e1369c5a3a2ff.jpg",
+      "alt": "Smoke raising from a chimney in winter",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Smoke Exposure",
+      "src": "",
+      "alt": "",
+      "body": "<p>Any type of smoke (including cigarettes, e-cigarettes, legal marijuana, and poorly ventilated wood-burning stoves, etc.) can contribute to causing asthma attacks in children, or exacerbate asthma symptoms.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mold",
+    "displayTitle": "Mold",
+    "body": "",
+    "_id": "5e6bd706bb1a0d03740bf2b8",
+    "_parentId": "5e6bd706bb1a0d03740bf2b5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "fade",
+    "front": {
+      "title": "Mold",
+      "src": "course/en/assets/df8dd88147b4e90bdb64cc82a90069f9a2b376b0.jpg",
+      "alt": "House window with damp and condensation",
+      "body": "<p>&nbsp;&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Mold",
+      "src": "",
+      "alt": "",
+      "body": "<p>Mold grows where moisture is present. When mold is inhaled by children who are allergic, it can trigger asthma.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dr. Miller",
+    "displayTitle": "Dr. Miller",
+    "body": "<p>Let’s start by interviewing the physician, Dr. Miller, who treated Jack at the hospital.</p>",
+    "_id": "5e6ff1439185c02befa49aee",
+    "_parentId": "5e0120929b7ddf037c670095",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the button below until all conversation exchanges have been displayed.",
+    "startLabel": "Click to start the conversation",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p><strong>You</strong>: Let’s talk about what happened today.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Miller</strong>: When Jack was brought in today, he was out of breath so badly that we had to give him three emergency breathing treatments. He recovered gradually after that. When we asked him why he didn’t use the inhaler as soon as his asthma flared up today, he said he lost the inhaler his mom put in his backpack, and the inhaler has also been empty for two weeks.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Is this Jack’s first time visiting the emergency room?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Miller</strong>:&nbsp;No. As far as I know, he has been admitted twice in the past six months for emergency medical treatment due to asthma.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e6ff6e09185c02befa49aef",
+    "_parentId": "5e0120929b7ddf037c670095",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "female doctor standing outside hospital",
+      "large": "course/en/assets/6be6cbea8213261120b5c2435e41880cde07b8b3.jpg",
+      "small": "course/en/assets/6be6cbea8213261120b5c2435e41880cde07b8b3.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "Question 2",
+    "body": "<p>Who do you think is the best source to consult to determine if Jack’s asthma is being properly managed?</p>",
+    "_id": "5e6ff7809185c02befa49af8",
+    "_parentId": "5e6ff7809185c02befa49af5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select the correct answer, then click Submit.",
+    "_items": [
+      {
+        "text": "Jack's mother",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Jack's school",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Jack's physician(s)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct! Jack’s medical team is the best source to consult about his condition.&nbsp;</p><p>If you are investigating whether a child’s asthma is being properly managed, the child’s medical team is your best source of information, as doctors and/or hospital staff will be able to give you unbiased indicators of the child’s condition.</p><p>They can tell you:</p><ul><li>How well the condition is being controlled as measured by lab tests</li><li>The family’s clinic attendance and adherence to recommended appointments and check-ups</li><li>Phone calls made by the family to the center</li><li>Number of times the child has been hospitalized with a related illness</li></ul>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer. Jack’s medical team is the best source to consult about his condition.&nbsp;</p><p>If you are investigating whether a child’s asthma is being properly managed, the child’s medical team is your best source of information, as doctors and/or hospital staff will be able to give you unbiased indicators of the child’s condition.</p><p>They can tell you:</p><ul><li>How well the condition is being controlled as measured by lab tests</li><li>The family’s clinic attendance and adherence to recommended appointments and check-ups</li><li>Phone calls made by the family to the center</li><li>Number of times the child has been hospitalized with a related illness</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e6ff7ad9185c02befa49afa",
+    "_parentId": "5e6ff7a69185c02befa49af9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dr. Shumway",
+    "displayTitle": "Dr. Shumway",
+    "body": "<p>Next, let’s interview Jack’s regular pulmonologist, Dr. Shumway.</p>",
+    "_id": "5e70d2d99185c02befa49b01",
+    "_parentId": "5dcf23179d1c30038ee5378a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the button below until all conversation exchanges have been displayed.",
+    "startLabel": "Click to start the conversation",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p><strong>You</strong>: How long has Jack been your patient?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Shumway</strong>: He has been my patient for the past three years.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: How often is Jack brought in for his check-up?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Shumway</strong>: I would like to see Jack on a monthly basis. He never missed any appointments until two weeks ago when he didn’t show up. For that appointment, he was supposed to get his medications refilled. Our nurse tried repeatedly to call Jack’s mother afterward, but Lilly never answered her phone.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>:&nbsp;How well is Jack’s asthma being controlled?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Shumway</strong>: To be honest, I’m pretty worried about Jack’s asthma. He uses several medications and inhalers to control his asthma because his asthma condition is quite severe. He needs to take medications every day. If he ever stops doing so, his asthma could flare up easily.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Do you have an asthma action plan?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Dr. Shumway</strong>: Yes, Jack’s mom and I created an action plan together after the first time they visited my office. In the plan, I listed things like what medicines to take and when to take, a list of possible triggers for Jack, early symptoms of flare-ups, what to do if they happen, and when to get emergency care. I also made a copy of the plan for her.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e70e1c39185c02befa49b02",
+    "_parentId": "5dcf23179d1c30038ee5378a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "a male doctor",
+      "large": "course/en/assets/21d6be0931e5deb3871a000bb0458cd6a313d7ea.jpg",
+      "small": "course/en/assets/21d6be0931e5deb3871a000bb0458cd6a313d7ea.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Jack",
+    "displayTitle": "Jack",
+    "body": "",
+    "_id": "5e70f4ed9185c02befa49b06",
+    "_parentId": "5dd2d8669d1c30038ee53799",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the button below until all conversation exchanges have been displayed.",
+    "startLabel": "Click to start the conversation",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p><strong>You</strong>: Jack, what problems have you had with breathing?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: Sometimes I feel like it’s hard to breathe, especially when I’m home.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: What happened the last time you had an asthma attack?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: My asthma flared up last time when I was in school. It was lunch time, and I started to cough and couldn’t stop.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: What did it feel like?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: My chest felt really tight and it was hard to breathe.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: When you are at school and this happens, what do you do?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: Mom lets me take my inhaler to school in my backpack. But I lost it and it was empty anyway.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: When you are at home and you have an asthma attack, what do you do?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: I have an inhaler that I’m supposed to use and some other medication that I take with a breathing treatment, but I don’t have any right now. I was supposed to go to the doctor a few weeks ago, but we didn’t go.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: How do you use the medication?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: For my inhaler, I shake it up and take 2 big puffs. For the breathing treatment, my mom puts the medicine in and I have a mask that I put on.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: How long have you been without your inhaler and medication?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: It’s been a few weeks, but mom lets me use her inhaler.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Where is your medication kept at home?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: It’s in the cabinet by the sink in the kitchen.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: What doctor do you see for your asthma?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: Mom takes me to see Dr. Shumway.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: When was the last time you went to the doctor?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Jack</strong>: It’s been a few months. I missed the last appointment. I don’t know when I’m supposed to go again.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Interviewing Jack",
+    "displayTitle": "Interviewing Jack",
+    "body": "<p>The two doctors paint the picture that Jack’s asthma is not being properly managed. At this point, it is time to speak with Jack to find out more information.</p><p>What kinds of questions should you ask when interviewing Jack?&nbsp; Take a moment to remember what you learned in the last module about asthmatic care, and think of some questions you would ask.</p>",
+    "_id": "5e70fc079185c02befa49b0b",
+    "_parentId": "5e70fbb99185c02befa49b09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lilly",
+    "displayTitle": "Lilly",
+    "body": "",
+    "_id": "5e711e6a9185c02befa49b15",
+    "_parentId": "5dcf2bcc9d1c30038ee53791",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the button below until all conversation exchanges have been displayed.",
+    "startLabel": "Click to start the conversation",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p><strong>You</strong>: Let’s talk about the reason Jack missed the appointment with Dr. Shumway two weeks ago.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: Jack has been using too many medications and inhalers to control his asthma. I was told our insurance won’t pay for more for the rest of this year, and I didn’t have enough money to buy more for him.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Have you looked into any resources that would help with supplemental medication or costs?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: No, I didn’t know there were resources available to help.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Jack told me he’s been off all of his medications for two weeks. Is that true?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: Yes, he runs out of his inhaler. But I let him use mine.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Have you ever been told that personal inhalers are not shareable?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>:&nbsp; I know. But I thought “it’s just for now.” I plan to take him to see Dr. Shumway in a few weeks.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Is the school aware of his asthma condition?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: Yes. The school and his teacher, Mrs. Newby has known about his condition since his asthma flared up last time. Since then, they don’t allow Jack to go outside for recess. I agreed with that.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Does Jack have an inhaler at school?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: Yes. I put one in Jack’s backpack so he can carry it with him wherever he goes. The school requires it to be checked in at the office. But since his asthma is so bad, they allow him to carry it.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Jack said his asthma gets worse when he is home. Have you noticed that?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: Yeah… I noticed that recently. There is a mold issue in our kitchen. I asked him not to go in there and thought it would be fine.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Dr. Shumway mentioned you created an asthma action plan with him when Jack was first diagnosed. Do you still have this plan?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Lilly</strong>: He gave me an action plan, but I lost it when we moved last year.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Interviewing Lilly",
+    "displayTitle": "Interviewing Lilly",
+    "body": "<p>Let’s interview Jack’s mom, Lilly, to explore some issues that need to be investigated. Again, remember what you’ve learned about asthmatic care, and think of some questions you would ask Lilly.</p>",
+    "_id": "5e71265e9185c02befa49b22",
+    "_parentId": "5e71265e9185c02befa49b21",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mrs. Newby",
+    "displayTitle": "Mrs. Newby",
+    "body": "<p>Let’s also interview Jack’s teacher, Mrs. Newby, to explore what actions the school takes to control Jack’s asthma.</p>",
+    "_id": "5e7128b39185c02befa49b25",
+    "_parentId": "5dcf2c3d9d1c30038ee53795",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click the button below until all conversation exchanges have been displayed.",
+    "startLabel": "Click to start the conversation",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p><strong>You</strong>: What steps has the school taken to help Jack control his asthma?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Mrs. Newby</strong>: We don’t allow Jack to go outside for recess anymore since the last time he had an asthma attack at school. I’m also very careful to keep my classroom clean and free of allergens. You know, to eliminate the possibilities of Jack’s exposure to asthma triggers.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Oh, so you know what Jack’s asthma triggers are?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Mrs. Newby</strong>: Uhmm… His mom told me that he is sensitive to fragrances. I don’t know anything other than that.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>You</strong>: Does Jack have an inhaler at school?</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p><strong>Mrs. Newby</strong>: Due to Jack’s asthma being severe, he is allowed to carry one in his backpack. But I have never seen him using it at school. I thought maybe he’s doing well and just doesn’t need to use it at school.</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e7132439185c02befa49b26",
+    "_parentId": "5dcf2c3d9d1c30038ee53795",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "female teacher in classroom",
+      "large": "course/en/assets/b7e15fbfec20b8abc5519e90770118d06fb8ea7c.jpg",
+      "small": "course/en/assets/b7e15fbfec20b8abc5519e90770118d06fb8ea7c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem 2",
+    "displayTitle": "Problem 2",
+    "body": "",
+    "_id": "5e713e079185c02befa49b2d",
+    "_parentId": "5e713e079185c02befa49b2b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "fade",
+    "front": {
+      "title": "Problem 2",
+      "src": "",
+      "alt": "",
+      "body": "<p>Due to the mold issue, Jack’s asthma gets worse at home.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Solution ",
+      "src": "",
+      "alt": "",
+      "body": "<p>Lilly will speak with her landlord to remove the mold in the kitchen as soon as possible. Jack will temporarily stay at&nbsp;his aunt’s house until the mold removal work gets done.</p><p>After the mold issue is fixed, DHS will perform a home inspection to make sure there are no potential asthma triggers that Jack may be exposed to.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Service Planning",
+    "displayTitle": "Service Planning",
+    "body": "<p>After thorough information was gathered, it was determined that Lilly was unable to meet Jack’s medical needs and a Safety Plan was put into place. Lilly agreed to work a Family Centered Services case. Due to concerns regarding Jack’s severe asthma, DHS Nurses have been assisting the specialist and Safety Plan monitor regarding Jack’s care.</p><p>What might a service plan look like for Jack and his family?</p>",
+    "_id": "5e7295f49185c02befa49b87",
+    "_parentId": "5e722c999185c02befa49b32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Wooden cube block building the word plan",
+      "large": "course/en/assets/7c8e08700cb586a37b7b30fd1d49814a00b73443.jpg",
+      "small": "course/en/assets/7c8e08700cb586a37b7b30fd1d49814a00b73443.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Progress Bar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e73d3b49185c02befa49bb0",
+    "_parentId": "5da4c8bb9d1c30038ee52d0c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "a rectangular progress bar with pastel green background",
+      "large": "course/en/assets/9660b057eb7c49093957bf171749d74f62f41e56.png",
+      "small": "course/en/assets/9660b057eb7c49093957bf171749d74f62f41e56.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Progress Bar",
+    "displayTitle": "Progress Bar",
+    "body": "<p>You must view and complete <strong>all interactive activities</strong> in each Learning Module to achieve course completion.</p><p>Each interactive activity has a <strong>Required</strong> icon in the top right corner. When an activity has been completed, the icon will change to say <strong>Complete</strong>.</p><p>There is also a <strong>Progress Bar</strong> at the top right of all Learning Module screens. It helps you track the activities you have and have not completed. When you click on the Progress Bar, a list of topics will appear, along with their completion status. You can click on a topic from the list to go directly to it. When all activities have been completed, the Progress Bar will be completed filled in.</p>",
+    "_id": "5e73d3c49185c02befa49bb1",
+    "_parentId": "5da4c8bb9d1c30038ee52d0c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Goals",
+    "displayTitle": "Learning Goals",
+    "body": "<p>By the end of this course, you will be able to:</p><ul><li>Define asthma and identify types of asthma</li><li>Describe what triggers an asthma attack</li><li>Recognize the symptoms of asthma</li><li>Explain why and how adults must help children control their asthma</li><li>Explain how to prepare for a consult with licensed professionals for children with asthma</li><li>Explain how to partner with other members of the child’s team to ensure the child receives appropriate care</li><li>Apply asthma-related knowledge to determine if a child’s asthma is being properly managed</li></ul>",
+    "_id": "5e74e9d69185c02befa49bc6",
+    "_parentId": "5e74e9b39185c02befa49bc5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Businesswoman on blurred background holding and touching a lightbulb",
+      "large": "course/en/assets/e970b67bacbbc1d55ed01bbdfc3fb12d796f638c.jpg",
+      "small": "course/en/assets/e970b67bacbbc1d55ed01bbdfc3fb12d796f638c.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Can People Get Rid of Asthma?",
+    "displayTitle": "Can People Get Rid of Asthma?",
+    "body": "<p>Like any other chronic disease, asthma is a condition people live with every day of their lives. They can have an asthma attack any time they are exposed to one of their asthma triggers. However, unlike other chronic obstructive lung diseases, asthma is reversible. Here are the basic facts about asthma:</p><ul><li>Asthma cannot be cured, but it can be controlled.</li><li>With proper treatment, people with asthma can have fewer and less severe asthma attacks.</li><li>Without treatment, people&nbsp;will have more frequent and more severe asthma attacks and can even die.</li></ul>",
+    "_id": "5e74ec349185c02befa49bd0",
+    "_parentId": "5e74ec319185c02befa49bce",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "panels",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What Are the Rates of Asthma Attacks in Children?",
+    "displayTitle": "What Are the Rates of Asthma Attacks in Children?",
+    "body": "",
+    "_id": "5e9f1e359185c02befa4a129",
+    "_parentId": "5e9f1e359185c02befa4a127",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click each arrow to learn more. All arrows must be viewed to complete the interaction and achieve module completion.",
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>Nearly <strong>9 million</strong> children have been diagnosed with asthma.</p>",
+        "_graphic": {
+          "alt": "happy kids group have fun in nature outdoors park",
+          "src": "course/en/assets/d6e414d3c16a27bb76ce01aeb1ba0bb752294b3d.jpg"
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>In 2015, <strong>47.5%</strong> of children age 18 and younger who had&nbsp;asthma reported having one or more asthma attacks in the past year.</p>",
+        "_graphic": {
+          "alt": "large and diverse group of people seen from above gathered together in a shape of a child care symbol",
+          "src": "course/en/assets/e10364924797d56d50f3d6fceaa28f18745fc49e.jpg"
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>50-80% of children with asthma develop symptoms before <strong>age 5</strong>.</p>",
+        "_graphic": {
+          "alt": "Infant wearing an inhaler",
+          "src": "course/en/assets/ad59ed9252a470b9475ee15c4c8c95a113e17fb0.jpg"
+        }
+      },
+      {
+        "title": "",
+        "body": "<p>Asthma is the <strong>top reason</strong> for <strong>missed school days</strong> among children ages 5 to 17. In 2013, about 13.8 million missed school days were reported due to asthma.</p>",
+        "_graphic": {
+          "alt": "father holds hands with his little school girl",
+          "src": "course/en/assets/7baff7fe00417b27ca8ccb97ba92da1ffa683e2b.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "Question 1",
+    "body": "<p>As a CW Specialist who is assigned to this case, how can you get more information about Jack’s asthmatic condition?</p>",
+    "_id": "5ea1fb1a9185c02befa4a1fb",
+    "_parentId": "5ea1fafa9185c02befa4a1f8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select the correct answer(s), then click Submit.",
+    "_items": [
+      {
+        "text": "Obtain all of Jack’s medical records ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Consult with Jack’s primary care physician",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Consult with a Child Welfare Nurse",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct!</p><p>Upon notice of possible abuse or neglect of children with diagnosed medical conditions, the CW Specialist is required to:</p><ul><li>Obtain all medical records necessary to adequately assess the safety of the child with a perceived or diagnosed developmental or physical disability or any ongoing medical condition</li><li>Consult by phone or face-to-face with the child’s primary care physician, specialist, and any other treating medical provider when a child is reported to have an ongoing medical condition</li><li>Consult with a Child Welfare Nurse who can provide assistance with:</li></ul><ul style=\"list-style-type:circle; margin-left:40px\"><li>Understanding medical concerns</li><li>Medication reviews</li><li>Medical chart reviews</li><li>Parent and foster parent education on medical issues</li><li>Home visits</li><li>Hospital visits</li></ul><p>A good practice for CW Specialists is to take clear pictures of the asthma medication labels with readable fill and expiration dates, a picture of prescribed drugs, a picture of the nebulizer (if present), and a picture of the counter on the back of the inhaler. Another good practice is to plug in the nebulizer to check if it is still working.</p><p>Specialists will use the information gathered to consult with Child Welfare Nurses. This information will help the nurses know what medications the child currently has, what the nurses need to get for them, and how quickly a nurse needs to arrive at the scene. Moreover, it also protects the CW Specialist if something happens to a child later on because it documents that they ensured the medications were present and working well!</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer.</p><p>Upon notice of possible abuse or neglect of children with diagnosed medical conditions, the CW Specialist is required to:</p><ul><li>Obtain all medical records necessary to adequately assess the safety of the child with a perceived or diagnosed developmental or physical disability or any ongoing medical condition</li><li>Consult by phone or face-to-face with the child’s primary care physician, specialist, and any other treating medical provider when a child is reported to have an ongoing medical condition</li><li>Consult with a Child Welfare Nurse who can provide assistance with:</li></ul><ul style=\"list-style-type:circle; margin-left:40px\"><li>Understanding medical concerns</li><li>Medication reviews</li><li>Medical chart reviews</li><li>Parent and foster parent education on medical issues</li><li>Home visits</li><li>Hospital visits</li></ul><p>A good practice for CW Specialists is to take clear pictures of the asthma medication labels with readable fill and expiration dates, a picture of prescribed drugs, a picture of the nebulizer (if present), and a picture of the counter on the back of the inhaler. Another good practice is to plug in the nebulizer to check if it is still working.</p><p>Specialists will use the information gathered to consult with Child Welfare Nurses. This information will help the nurses know what medications the child currently has, what the nurses need to get for them, and how quickly a nurse needs to arrive at the scene. Moreover, it also protects the CW Specialist if something happens to a child later on because it documents that they ensured the medications were present and working well!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "lottie",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is Asthma?",
+    "displayTitle": "What is Asthma?",
+    "body": "<p>Asthma is a condition in which a person's&nbsp;airways become inflamed, narrowing and swelling, and producing&nbsp;extra mucus. This can make breathing difficult and trigger coughing, wheezing, and shortness of breath.</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "_id": "5eaaf758570ec603179e019f",
+    "_parentId": "5eaaf728570ec603179e019d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the button at the bottom right of the graphic to play the animation.",
+    "_fallback": {
+      "src": "course/en/assets/57e180513ab9eb997598c4599e3f325a5b343d23.jpg",
+      "alt": "lung illustration"
+    },
+    "_animation": {
+      "src": "course/en/assets/3e38add7ed132b1dbd308c6a39633bed614564d1.json",
+      "alt": "normal airway and asthmatic airway illustration",
+      "description": ""
+    },
+    "width": "",
+    "height": "",
+    "attribution": "",
+    "_autoplay": false,
+    "_loop": true,
+    "_showPauseControl": true
+  },
+  {
+    "_component": "lottie",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is an Asthma Attack?",
+    "displayTitle": "What is an Asthma Attack?",
+    "body": "<p>An asthma attack occurs when symptoms develop due to some type of trigger. During an asthma attack, the muscles that surround the bronchial tubes constrict, narrowing the air passages and making it extremely difficult to breathe.</p><p>Asthma attacks can vary from mild to life-threatening and involve any combination of symptoms.</p>",
+    "_id": "5eaaf75e570ec603179e01a0",
+    "_parentId": "5eaaf728570ec603179e019d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the button at the bottom right of the graphic to play the animation.",
+    "_fallback": {
+      "src": "course/en/assets/95c0028af462d4f4dee7200518b69766dbf91d09.jpg",
+      "alt": "Mold and smoke illustration"
+    },
+    "_animation": {
+      "src": "course/en/assets/de8ff9e58cd763424e8b6b28cb8dfcf199f215bf.json",
+      "alt": "asthmatic airway changes during an asthma attack",
+      "description": ""
+    },
+    "width": "",
+    "height": "",
+    "attribution": "",
+    "_autoplay": false,
+    "_loop": true,
+    "_showPauseControl": true
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Problem 7",
+    "displayTitle": "Problem 7",
+    "body": "",
+    "_id": "5eac71b9570ec603179e02ca",
+    "_parentId": "5eac71b9570ec603179e02c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "animation": "fade",
+    "front": {
+      "title": "Problem 7",
+      "src": "",
+      "alt": "",
+      "body": "<p>Due to the maturity level of Jack’s age, he can’t be relied upon to manage his asthmatic condition independently.</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Solution",
+      "src": "",
+      "alt": "",
+      "body": "<p>Lilly must understand that she is responsible for Jack’s care, including managing his asthma. She must take charge of his condition including planning for a response to Jack’s asthma when he is both at home and away from home.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 4",
+    "displayTitle": "Question 4",
+    "body": "",
+    "_id": "5ebebe13570ec603179e0649",
+    "_parentId": "5ebebe08570ec603179e0648",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer in the space provided, then click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/3001b2a050b1cc4ed5caf80d878f96330b6f20ce.jpg",
+    "headerAlt": "",
+    "questionTitle": "Question",
+    "question": "<p>How may Kylie be treated for her asthma?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Kylie's asthma can be controlled by:</p><ul><li>Using medication as prescribed, such as Quick-relief or Controller inhalers</li><li>Following an individualized written asthma action plan</li><li>Reducing or eliminating exposure to things that can cause asthma symptoms</li></ul>",
+    "minResponse": 0,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  }
+]

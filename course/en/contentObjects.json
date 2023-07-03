@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d9517a59d1c30038ee526be",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "girl using inhaler on an autumn day",
+      "src": "course/en/assets/57c2bcfcf087aa406bdc3b14192371851a517c83.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Asthma Overview",
+    "displayTitle": "Asthma Overview",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d9e2c649d1c30038ee52c4b",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "happy kids group fun in nature outdoor park",
+      "src": "course/en/assets/d6e414d3c16a27bb76ce01aeb1ba0bb752294b3d.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Assessing Care",
+    "displayTitle": "Assessing Care",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5dced3389d1c30038ee5377b",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Child reaching out to touch young ears of wheat ripening",
+      "src": "course/en/assets/c3905fb08a81372b21d9e84e4dec213c87f280e5.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Foster Placement",
+    "displayTitle": "Foster Placement",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5df2774d9b7ddf037c66fc7b",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Baby boy held by his mother examined by pediatrician",
+      "src": "course/en/assets/071a93dde2a89a269d43630c7de91ea65e32a9a4.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_gheader": {
+      "_isEnabled": false,
+      "_isHidden": false,
+      "logoImage": "",
+      "logoImageAlt": "",
+      "backgroundImage": "",
+      "backgroundImageAlt": "",
+      "forceFullHeight": false
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  }
+]
